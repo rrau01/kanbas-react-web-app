@@ -1,0 +1,34 @@
+body * {
+  font-family: Verdana;
+  word-wrap: break-word;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.wd-float-left {
+  float: left;
+}
+
+.wd-float-right {
+  float: right;
+}
+
+.wd-float-done {
+  clear: both;
+}
+
+.wd-float-inline {
+  float:inline-start;
+}
+
+.profile-btn {
+  background-color: lightgray !important;
+  color: black !important;
+}
+
+.save-btn {
+  background-color: red !important;
+  color: white !important;
+}

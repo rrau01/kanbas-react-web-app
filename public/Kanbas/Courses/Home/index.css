@@ -1,0 +1,22 @@
+a {
+    color: red !important;
+    text-decoration: none !important;
+}
+
+.list-group-item.module-title {
+    background-color: lightgray;
+}
+
+.list-group-item.module {
+    border-left-width: 5px;
+    border-left-color: green;
+}
+
+i {
+    color: #727272;
+}
+
+.btn-secondary {
+    background-color: lightgray !important;
+    color: black !important;
+}
