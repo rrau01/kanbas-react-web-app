@@ -1,5 +1,64 @@
+.wd-kanbas-navigator {
+  background-color: white;
+  padding: 0px;
+  font-size: 0.8em;
+  text-align: center;
+  margin-right: 5px;
+  border-radius: 0 !important;
+  width: 77px !important;
+}
+
+.wd-kanbas-navigator.li {
+  background-color: black;
+  list-style-type: none;
+  text-align: center;
+  padding: 5px;
+}
+
+.wd-kanbas-navigator.li.active {
+  background-color: white;
+  color: red;
+  list-style-type: none;
+  text-align: center;
+  padding: 5px;
+}
+
+.wd-kanbas-navigator-item {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+
+.wd-kanbas-navigator-item.active {
+  background-color: white;
+  color: red;
+  text-decoration: none;
+  text-align: center;
+}
+
+.wd-kanbas-navigator-icon {
+  color: red;
+}
+
+body * {
+  font-family: Verdana;
+}
+
 a {
     color: red !important;
+    text-decoration: none !important;
+}
+
+a.wd-kanbas-navigator-item {
+    color: white !important;
+}
+
+a.wd-kanbas-navigator-item.active {
+    color: red !important;
+}
+
+.account {
+    color: lightgrey !important;
     text-decoration: none !important;
 }
 
@@ -19,4 +78,67 @@ i {
 .btn-secondary {
     background-color: lightgray !important;
     color: black !important;
+}
+
+.btn-published {
+    background-color: rgb(104, 171, 104) !important;
+    color: white !important;
+}
+
+.todo {
+    color: lightgrey;
+}
+
+.wd-course-navigator {
+    background-color: white;
+    font-size: 1.0em;
+    text-align: left;
+    margin-right: 5px;
+    border-radius: 0 !important;
+    width: 175px !important;
+}
+  
+  .wd-course-navigator.li {
+    background-color: white;
+    color: red;
+    list-style-type: none;
+    text-align: left;
+    padding: 5px;
+    padding-left: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    word-wrap: break-word;
+}
+  
+  .wd-course-navigator.li.active {
+    background-color: white;
+    color: black;
+    border-left-width: 4px;
+    border-left-color: black;
+    list-style-type: none;
+    text-align: left;
+    padding: 5px;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    word-wrap: break-word;
+}
+  
+  .wd-course-navigator-item {
+    color: red;
+    text-decoration: none;
+    text-align: left;   
+    word-wrap: break-word;
+}
+  
+  .wd-course-navigator-item.active {
+    background-color: white;
+    color: black !important;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+  .course-nav-icon {
+    color: #727272;
 }
