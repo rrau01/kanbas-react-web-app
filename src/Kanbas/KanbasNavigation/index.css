@@ -1,0 +1,78 @@
+.wd-kanbas-navigator {
+  background-color: white;
+  padding: 0px;
+  font-size: 0.8em;
+  text-align: center !important;
+  margin-right: 5px;
+  border-radius: 0 !important;
+  width: 87px !important;
+}
+
+.wd-kanbas-navigator.li {
+  background-color: black;
+  list-style-type: none;
+  text-align: center !important;
+  padding: 5px;
+  color: white !important;
+}
+
+.wd-kanbas-navigator.li.active {
+  background-color: white;
+  color: red;
+  list-style-type: none;
+  text-align: center !important;
+  padding: 5px;
+}
+
+.wd-kanbas-navigator-item {
+  color: white;
+  text-decoration: none;
+  text-align: center !important;
+  background-color: black;
+  margin-right: 5px !important;
+  border-radius: 0 !important;
+  width: 87px !important;
+}
+
+.wd-kanbas-navigator-item.active {
+  background-color: white;
+  color: red !important;
+  text-decoration: none;
+  text-align: center !important;
+  margin-right: 5px;
+}
+
+.wd-kanbas-navigator-icon {
+  color: red;
+}
+
+.wd-kanbas-navigator-icon.account {
+  color: gray !important;
+}
+
+body * {
+  font-family: Verdana;
+}
+
+a {
+    color: red !important;
+    text-decoration: none !important;
+    text-align: center !important;
+}
+
+a.wd-kanbas-navigator-item {
+    color: white !important;
+    margin-right: 5px;
+    text-align: center !important;
+}
+
+a.wd-kanbas-navigator-item.active {
+    color: red !important;
+    margin-right: 5px;
+    text-align: center !important;
+}
+
+.logo {
+  background-color: black; 
+  padding-top:10px;
+}

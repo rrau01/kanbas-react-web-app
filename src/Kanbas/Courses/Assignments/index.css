@@ -1,0 +1,17 @@
+  
+  body * {
+    font-family: Verdana;
+  }
+  
+  .list-group-item.module-title {
+      background-color: lightgray;
+  }
+  
+  .list-group-item.module {
+      border-left-width: 5px !important;
+      border-left-color: green !important;
+  }
+
+  a.module {
+    color: black !important;
+  }

@@ -1,0 +1,18 @@
+.btn-secondary {
+    background-color: lightgray !important;
+    color: black !important;
+    margin-bottom: 5px;
+}
+
+.btn-published {
+    background-color: rgb(104, 171, 104) !important;
+    color: white !important;
+}
+
+.button-icon {
+  margin-right: 5px;
+}
+
+.todo {
+    color: lightgrey;
+}

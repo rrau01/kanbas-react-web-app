@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "121",
+    "username": "iron_man",
+    "password": "stark123",
+    "firstName": "Tony",
+    "lastName": "Stark",
+    "email": "tony@stark.com",
+    "dob": "1970-05-29",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "122",
+    "username": "dark_knight",
+    "password": "wayne123",
+    "firstName": "Bruce",
+    "lastName": "Wayne",
+    "email": "bruce@wayne.com",
+    "dob": "1972-02-19",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "123",
+    "username": "capt_america",
+    "password": "rogers123",
+    "firstName": "Steve",
+    "lastName": "Rogers",
+    "email": "steve@avengers.com",
+    "dob": "1918-07-04",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "124",
+    "username": "black_widow",
+    "password": "romanoff123",
+    "firstName": "Natasha",
+    "lastName": "Romanoff",
+    "email": "natasha@avengers.com",
+    "dob": "1984-11-22",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "125",
+    "username": "thor_odinson",
+    "password": "mjolnir123",
+    "firstName": "Thor",
+    "lastName": "Odinson",
+    "email": "thor@asgard.com",
+    "dob": "982-05-25",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "126",
+    "username": "hulk_smash",
+    "password": "banner123",
+    "firstName": "Bruce",
+    "lastName": "Banner",
+    "email": "bruce@avengers.com",
+    "dob": "1969-12-18",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "127",
+    "username": "ring_bearer",
+    "password": "shire123",
+    "firstName": "Frodo",
+    "lastName": "Baggins",
+    "email": "frodo@shire.com",
+    "dob": "1368-09-22",
+    "role": "FACULTY"
+  },
+  {
+    "_id": "128",
+    "username": "strider",
+    "password": "aragorn123",
+    "firstName": "Aragorn",
+    "lastName": "Elessar",
+    "email": "aragorn@gondor.com",
+    "dob": "2931-03-01",
+    "role": "FACULTY"
+  },
+  {
+    "_id": "129",
+    "username": "elf_archer",
+    "password": "legolas123",
+    "firstName": "Legolas",
+    "lastName": "Greenleaf",
+    "email": "legolas@mirkwood.com",
+    "dob": "2879-07-15",
+    "role": "FACULTY"
+  },
+  {
+    "_id": "130",
+    "username": "star_war",
+    "password": "password123",
+    "firstName": "Luke",
+    "lastName": "Skywalker",
+    "email": "luke@skywalker.com",
+    "dob": "4000-03-02",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "131",
+    "username": "ash_kethcum",
+    "password": "pokemon1",
+    "firstName": "Ash",
+    "lastName": "Ketchum",
+    "email": "ash@kanto.com",
+    "dob": "1998-01-01",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "132",
+    "username": "dragonball",
+    "password": "dbz123",
+    "firstName": "Son",
+    "lastName": "Goku",
+    "email": "goku@saiyan.com",
+    "dob": "1989-01-01",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "133",
+    "username": "witcher",
+    "password": "witcher123",
+    "firstName": "Geralt",
+    "lastName": "of Rivia",
+    "email": "geralt@kaermorhen.com",
+    "dob": "2000-12-12",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "134",
+    "username": "spidey",
+    "password": "webcrawler",
+    "firstName": "Peter",
+    "lastName": "Parker",
+    "email": "peter@web.com",
+    "dob": "1995-08-10",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "135",
+    "username": "jedi_master",
+    "password": "force123",
+    "firstName": "Obi-Wan",
+    "lastName": "Kenobi",
+    "email": "obiwan@jedi.com",
+    "dob": "1957-02-11",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "136",
+    "username": "vamp_slayer",
+    "password": "buffy123",
+    "firstName": "Buffy",
+    "lastName": "Summers",
+    "email": "buffy@scooby.com",
+    "dob": "1981-01-19",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "137",
+    "username": "wiz_boy",
+    "password": "potter123",
+    "firstName": "Harry",
+    "lastName": "Potter",
+    "email": "harry@hogwarts.com",
+    "dob": "1980-07-31",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "138",
+    "username": "super_son",
+    "password": "kryptonite",
+    "firstName": "Clark",
+    "lastName": "Kent",
+    "email": "clark@dailyplanet.com",
+    "dob": "1979-02-29",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "139",
+    "username": "wizard_gandalf",
+    "password": "youshallnotpass",
+    "firstName": "Gandalf",
+    "lastName": "Grey",
+    "email": "gandalf@middleearth.com",
+    "dob": "2000-01-01",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "140",
+    "username": "prince_saiyan",
+    "password": "galickgun",
+    "firstName": "Prince",
+    "lastName": "Vegeta",
+    "email": "vegeta@planetvegeta.com",
+    "dob": "2000-01-01",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "141",
+    "username": "wonder_woman",
+    "password": "amazon123",
+    "firstName": "Diana",
+    "lastName": "Prince",
+    "email": "diana@themyscira.com",
+    "dob": "1980-05-12",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "142",
+    "username": "sherlock",
+    "password": "elementary",
+    "firstName": "Sherlock",
+    "lastName": "Holmes",
+    "email": "sherlock@bakerstreet.com",
+    "dob": "1854-01-06",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "143",
+    "username": "wolverine",
+    "password": "logan123",
+    "firstName": "Logan",
+    "lastName": "Howlett",
+    "email": "logan@xmen.com",
+    "dob": "1832-04-10",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "144",
+    "username": "spock",
+    "password": "logical123",
+    "firstName": "Spock",
+    "lastName": "Sarek",
+    "email": "spock@vulcan.com",
+    "dob": "2230-01-13",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "145",
+    "username": "007_agent",
+    "password": "bond123",
+    "firstName": "James",
+    "lastName": "Bond",
+    "email": "james@mi6.com",
+    "dob": "1927-03-15",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "146",
+    "username": "deadpool",
+    "password": "chimichanga",
+    "firstName": "Wade",
+    "lastName": "Wilson",
+    "email": "wade@merc.com",
+    "dob": "1976-02-20",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "147",
+    "username": "hannibal",
+    "password": "cannibal123",
+    "firstName": "Hannibal",
+    "lastName": "Lecter",
+    "email": "hannibal@cannibal.com",
+    "dob": "1933-01-20",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "148",
+    "username": "jason_bourne",
+    "password": "treadstone",
+    "firstName": "Jason",
+    "lastName": "Bourne",
+    "email": "jason@treadstone.com",
+    "dob": "1973-09-13",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "149",
+    "username": "katniss",
+    "password": "mockingjay",
+    "firstName": "Katniss",
+    "lastName": "Everdeen",
+    "email": "katniss@panem.com",
+    "dob": "1995-05-08",
+    "role": "STUDENT"
+  },
+  {
+    "_id": "150",
+    "username": "capt_jack",
+    "password": "pirate123",
+    "firstName": "Jack",
+    "lastName": "Sparrow",
+    "email": "jack@blackpearl.com",
+    "dob": "1690-06-09",
+    "role": "STUDENT"
+  }  
+]

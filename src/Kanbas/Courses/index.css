@@ -1,0 +1,9 @@
+.breadcrumb-one {
+  color: red;
+  padding-right: "25px";
+  padding-left: "25px";
+}
+
+.breadcrumb-style {
+  --bs-breadcrumb-divider: '>';
+}
