@@ -16,7 +16,6 @@ function Courses({courses }) {
   return (
     <div>
       <Breadcrumb courseName = {course.name} />
-      {course.name}
       <CourseNavigation />
       <div>
         <div
