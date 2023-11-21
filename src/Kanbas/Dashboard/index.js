@@ -40,7 +40,7 @@ function Dashboard({courses, course, setCourse, addNewCourse,
             type="date"
             onChange={(e) => setCourse({ ...course, endDate: e.target.value })}
           />
-          <button onClick={updateCourse} className="btn btn-sm btn-primary float-end">
+          <button onClick={ () => updateCourse(course)} className="btn btn-sm btn-primary float-end">
             {" "}
             Update{" "}
           </button>
@@ -58,8 +58,8 @@ function Dashboard({courses, course, setCourse, addNewCourse,
             <div className="card-body">
               <p className="card-text">
                 <Link
-                  key={course._id}
-                  to={`/Kanbas/Courses/${course._id}`}
+                  key={course._id.$oid}
+                  to={`/Kanbas/Courses/${course._id.$oid}`}
                   className="a"
                 >
                   {course.name}
