@@ -6,7 +6,25 @@ function Dashboard({courses, course, setCourse, addNewCourse,
   deleteCourse, updateCourse}) {
   return (
     <div>
-      <h1>Dashboard</h1>
+      <div style={{display: 'flex'}}>
+        <h1>Dashboard</h1>
+        <nav className={`nav`} style={{ marginLeft: 'auto' }}>
+        <Link
+            to={`/Kanbas/signin`}
+            className={`nav-link`}
+            style={{fontSize: '30px'}}
+          >
+            Sign In
+        </Link>
+        <Link
+            to={`/Kanbas/signup`}
+            className={`nav-link`}
+            style={{fontSize: '30px'}}
+          >
+            Sign Up
+        </Link>
+        </nav>
+      </div>
       <hr />
       <div>
         <h2>Published Courses ({courses.length})</h2>
